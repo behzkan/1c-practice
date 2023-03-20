@@ -52,4 +52,4 @@
  </p>
 </details>
 	 
-### [НАЗАД]([../README.md](https://github.com/behzkan/1c-practice))
+### [НАЗАД] [../README.md](https://github.com/behzkan/1c-practice)
