@@ -16,5 +16,8 @@
 КонецЦикла;
 Сообщить(КубЧисла);
 ```
+ </p>	 
+</details>
+
 
 ### [НАЗАД](https://github.com/behzkan/1c-practice)
