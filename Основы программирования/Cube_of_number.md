@@ -20,4 +20,4 @@
 </details>
 
 
-### [НАЗАД](../readme.md)
+### [НАЗАД](readme.md)
