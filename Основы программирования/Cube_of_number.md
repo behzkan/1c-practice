@@ -20,4 +20,4 @@
 </details>
 
 
-### [НАЗАД](https://github.com/behzkan/1c-practice)
+### [НАЗАД](../readme.md)
